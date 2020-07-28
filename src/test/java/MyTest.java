@@ -4,8 +4,8 @@ import org.junit.Test;
 public class MyTest {
     @Test
     public void test_method_1() {
-        Demo d = new Demo();
-        d.DoSomething(true);
+        Demo c = new Demo();
+        c.DoSomething(true);
     }
 
     @Test
