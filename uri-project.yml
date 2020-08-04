@@ -34,4 +34,4 @@ steps:
     script: |
       # Write your commands here
       
-      echo 'Hello world - Test'
+      echo 'Hello world - Test-Fixed'
